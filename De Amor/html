@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewsport" content="width=device-widht, iniial-scale=1.0">
+  <title>Halaman html sederhana</title>
+  <title>Halaman 1</title>
+  <h1>Halaman 1</h1>
+  <a href="Halaman2.html">Klik</a>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f0f8ff;
+}
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  color: white;
+}
+main {
+  margin: 20px auto;
+  max-width:  800px;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color:#4682b4;
+  color: blue;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+a {
+  color: #4682b4;
+  text-decoration: none;
+}
+</style>
+</head>
+   <header>
+    <div style="color: black; text-align: center; font-size: 30px;font-family:cursive-script">
+      De`Amor
+    <div style="color: black; text-align: center; font-size: 10px;font:cursive-script;"></div>
+    Puisi 
+  </header>
+  <main>
+    <p>ini adalah contoh halaman html yang dibuat dengan struktur sederhana. anda dapat menambahkan lebih banyak elemen di sini </p>
+    </p>
+    <ul>
+      <li>belajar html</li>
+      <li>belajar css</li>
+      <li>belajar java</li>
+    </ul>
+</main>
+<footer>
+  &copy: 2025 halaman saya dibuat dengan cinta
+</footer>
+</body>
+</html>
